@@ -1,0 +1,4 @@
+pamdas
+scikit-learn
+streamlit
+joblib
